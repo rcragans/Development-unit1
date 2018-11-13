@@ -1,0 +1,16 @@
+man: The man command - the manual command - is used to show the manual of the inputted command. 
+Just like a film on the nature of film, the man command is the meta command of the Linux CLI. 
+Inputting the man command will show you all information about the command you are using. An example:
+
+man cd
+
+
+rmdir: The rmdir - remove directory - command allows the user to remove an existing command using the Linux CLI. 
+An example of the rmdir command:
+
+rmdir testdirectory
+
+
+locate : The locate - a.k.a. find - command is meant to find a file within the Linux OS. If you don't know the name of a certain file or you aren't sure where the file is saved and stored, the locate command comes in handy. A locate command example:
+
+locate -i *red*house**city*
